@@ -2,8 +2,8 @@ Here's a refined and formatted version of your **Data Warehousing and Mining Lab
 
 # 📘 Data Warehousing and Mining Lab - TE7013
 
-### 👤 Name: Pratham Agrawal  
-### 🎓 PRN: 22070521078
+### 👤 Name: Arnav Padole
+### 🎓 PRN: 22070521110
 
 ---
 
